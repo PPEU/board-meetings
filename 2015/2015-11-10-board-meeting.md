@@ -1,7 +1,7 @@
 ---
 date: 2015-11-10
-started: 20:05
-ended: 20:29
+started: "20:05"
+ended: "20:29"
 ---
 
 * Present: Tony Motakis (came 20:23) Sven Clement, Nina Konvalinka, Tale Haukbjørk, Smari McCarthy
@@ -27,9 +27,13 @@ Tony has a container running nginx on the server, responding to port 80. He will
 ## Mumble meeting
 
 Nina: Regarding the mumble meeting initiated by a germany pirate party - we are supposed to promote it via social media (Sven, you made that document, have we ever had the time to go through it and define our "strategy", maybe I've missed it)
+
 Sven: -> yes & no. Promoting an event should be doable with what we have in place. I can do the necessary preparations and send it to the right people.
+
 Nina: That would be great, FB event is already created, we only need to promote it publicly. I can write a post on our wordpress, but I don't have the access to twitter (we all have access to facebook, I think)
+
 Sven: I get to it on Thursday. I'll also send it to our members for further spreading.
+
 Nina: Good, so let's say we keep in touch via mailing list and do our homeworks by next time?
 Agreed
 
